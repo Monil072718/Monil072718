@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Monil Nakarani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Node Js**
+- 🔭 I’m currently working as a **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 👨‍💻 I specialize in building **modern, scalable, and responsive web applications**
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **MERN** , **Next.Js** , **PostgreSQL** , **Supabase** 
 
 - 📫 How to reach me **patelmonil7908@gmail.com**
 
